@@ -1,1 +1,52 @@
 /* your code here */
+.content{
+	background-color:black;
+
+	
+	
+	
+
+}
+
+.top{
+margin:10px;
+	color:white;
+	
+	display:flex;
+	align-items:center;
+	justify-content:space-between
+	
+}
+
+.link-boxes{
+	margin:10px;
+	
+	display:flex;
+	justify-content:space-between
+}
+h3{
+	text-decoration:underline;
+	color:white;
+	
+}
+p{
+	color:#808080;
+}
+a{
+	color:#808080;
+	text-decoration:none;
+	display:block;
+	margin-top:10px
+}
+.bottom-details{
+	
+     height:40px;
+	display:flex;
+
+	justify-content:space-between;
+	background-color:#454545 ;
+}
+.bottom-details p{
+	margin:10px
+}
+
